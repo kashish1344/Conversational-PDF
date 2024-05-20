@@ -14,10 +14,6 @@ import nltk
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 from langchain.schema import Document 
-from dotenv import load_dotenv
-
-# Load environment variables from .env file
-load_dotenv()
 
 # Download necessary NLTK data files
 nltk.download('punkt')
