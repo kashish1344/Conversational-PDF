@@ -1,0 +1,10 @@
+flask
+langchain
+pypdf
+transformers
+sentence-transformers
+accelerate
+faiss-gpu
+streamlit
+langchain-fireworks
+einops
