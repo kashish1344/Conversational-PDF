@@ -44,9 +44,6 @@ The application supports session management, allowing users to reset the convers
 ### 3. NLTK (Natural Language Toolkit)
 - Used for text preprocessing tasks such as tokenization and stopword removal.
 
-### 4. dotenv
-- For loading environment variables from a `.env` file.
-
 ## Usage
 
 1. **Home Page**: Navigate to the home page to upload a PDF file.
@@ -70,14 +67,6 @@ The application supports session management, allowing users to reset the convers
    flask run
    \`\`\`
 
-## Environment Variables
-
-Create a `.env` file in the root directory of the project and add the necessary environment variables. For example:
-\`\`\`
-VAR_NAME=your_value
-\`\`\`
-
-Ensure you have all the required environment variables set up before running the application.
 
 ## NLTK Data
 
