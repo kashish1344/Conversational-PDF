@@ -71,7 +71,7 @@ The application supports session management, allowing users to reset the convers
    \`\`\`
 3. Run the Flask application:
    \`\`\`bash
-   python app.py
+   flask run
    \`\`\`
 
 ## NLTK Data
