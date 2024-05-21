@@ -9,9 +9,6 @@ This Flask application enables users to upload PDF files, process and store thei
 
 https://github.com/kashish1344/Conversational-PDF/assets/83247791/ed9e76fb-429d-4259-96f6-40d5cb7fdb8d
 
-os/demo.mp4)
-
-
 ## Key Features
 
 ### 1. PDF Upload and Processing
