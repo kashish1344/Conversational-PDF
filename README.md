@@ -8,9 +8,10 @@ This Flask application enables users to upload PDF files, process and store thei
 ## Video Demo
 
 <video width="600" controls>
-  <source src="videos/demo.mp4" type="video/mp4">
+  <source src="./videos/demo.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
 
 ## Key Features
 
