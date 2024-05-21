@@ -5,6 +5,13 @@
 
 This Flask application enables users to upload PDF files, process and store their content in a FAISS vector store, and interact with the content through a chat interface powered by a conversational retrieval chain. The system utilizes advanced NLP techniques for text preprocessing and embedding, ensuring accurate and efficient information retrieval.
 
+## Video Demo
+
+<video width="600" controls>
+  <source src="videos/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## Key Features
 
 ### 1. PDF Upload and Processing
