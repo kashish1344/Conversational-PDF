@@ -74,7 +74,6 @@ The application supports session management, allowing users to reset the convers
    flask run
    \`\`\`
 
-
 ## NLTK Data
 
 The application uses NLTK for text preprocessing. The necessary NLTK data files are downloaded at runtime. Ensure you have an active internet connection when running the application for the first time.
